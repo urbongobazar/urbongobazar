@@ -1,20 +1,42 @@
-# Hi there 👋, I'm [URBONGOBAZAR]
+<h1 align="center">Hi 👋, I'm MD Parves</h1>
+<h3 align="center">Backend Developer | Learning Go 🚀</h3>
+
+---
 
 ## 🚀 About Me
-- Backend Developer (learning Go)
-- Experience in MERN Stack
-- Interested in scalable systems
+- 🔭 I’m currently working on Backend Projects
+- 🌱 I’m learning **Go & Docker**
+- 💬 Ask me about **Node.js, MongoDB**
+- ⚡ Fun fact: I love building scalable systems
 
-## 🛠️ Tech Stack
-- Go (learning)
-- Node.js
-- MongoDB
-- Docker
+---
 
-## 📈 Current Goals
-- Master Go
-- Build production-ready backend projects
+## 🌐 Connect with me:
+<p align="left">
+<a href="https://linkedin.com/in/yourlink" target="blank">LinkedIn</a>
+</p>
 
-## 📫 Contact
-- Email: urbongobazar@gmail.com
-- LinkedIn: link
+---
+
+## 🛠️ Tech Stack:
+<p>
+<img src="https://skillicons.dev/icons?i=go,nodejs,mongodb,docker,js,ts,react" />
+</p>
+
+---
+
+## 📊 GitHub Stats:
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 📌 Featured Projects
+- 🔹 Task Manager API (Go)
+- 🔹 Authentication System
+- 🔹 Dockerized Backend
