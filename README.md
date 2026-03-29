@@ -1,5 +1,5 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Backend+Developer;Learning+Go;Building+APIs" />
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+
 <h1 align="center">Hi 👋, I'm MD Parves</h1>
 <h3 align="center">Backend Developer | Learning Go 🚀</h3>
 
